@@ -49,7 +49,7 @@ export default function Header() {
             <div className="w-8 h-8 bg-gradient-to-r from-primary to-accent rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-lg">C</span>
             </div>
-            <span className="ml-2 text-xl font-bold text-foreground">Civi</span>
+            <span className="ml-2 text-xl font-bold" style={{ color: '#3c83f6e6' }}>Civi</span>
           </Link>
           
           {/* Desktop Navigation */}
