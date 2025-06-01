@@ -7,6 +7,7 @@ import NotFound from "@/pages/not-found";
 import Home from "@/pages/home";
 import About from "@/pages/about";
 import Contact from "@/pages/contact";
+import Solutions from "@/pages/solutions";
 import ClientManagement from "@/pages/products/client-management";
 import CaseManagement from "@/pages/products/case-management";
 import LearningManagement from "@/pages/products/learning-management";
@@ -21,6 +22,7 @@ function Router() {
       <main className="flex-1">
         <Switch>
           <Route path="/" component={Home} />
+          <Route path="/solutions" component={Solutions} />
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
           <Route path="/products/client-management" component={ClientManagement} />

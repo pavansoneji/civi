@@ -26,7 +26,7 @@ export default function Hero() {
                 <Link href="/contact">Request a Demo</Link>
               </Button>
               <Button asChild variant="outline" size="lg" className="text-lg px-8 py-6">
-                <Link href="#products">Explore Solutions</Link>
+                <Link href="/solutions">Explore Solutions</Link>
               </Button>
             </div>
             <div className="mt-12 flex items-center space-x-8 text-sm text-muted-foreground">
