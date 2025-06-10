@@ -22,7 +22,7 @@ export default function CTA() {
           <Button asChild size="lg" variant="secondary" className="px-8 py-4 text-lg">
             <Link href="/contact">Get Your Free Demo</Link>
           </Button>
-          <Button asChild size="lg" variant="outline" className="px-8 py-4 text-lg border-white text-white hover:bg-white hover:text-primary">
+          <Button asChild size="lg" variant="outline" className="px-8 py-4 text-lg border-white text-black hover:bg-white hover:text-primary">
             <Link href="#products">Explore All Solutions</Link>
           </Button>
         </div>
