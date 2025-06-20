@@ -24,11 +24,11 @@ const productLinks = [
     href: "/products/case-management",
     description: "Intelligent case routing and automated document analysis",
   },
-  {
-    title: "AI Learning Management",
-    href: "/products/learning-management",
-    description: "Personalized learning paths and AI-driven content recommendations",
-  },
+  // {
+  //   title: "AI Learning Management",
+  //   href: "/products/learning-management",
+  //   description: "Personalized learning paths and AI-driven content recommendations",
+  // },
   {
     title: "Custom AI Agents",
     href: "/products/ai-agents",

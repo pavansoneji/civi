@@ -17,13 +17,13 @@ const products = [
     href: "/products/case-management",
     gradient: "from-purple-500 to-pink-400",
   },
-  {
-    icon: GraduationCap,
-    title: "AI Learning Management",
-    description: "Personalized learning paths, AI-driven content recommendations, and automated progress tracking for optimal education outcomes.",
-    href: "/products/learning-management",
-    gradient: "from-green-500 to-teal-400",
-  },
+  // {
+  //   icon: GraduationCap,
+  //   title: "AI Learning Management",
+  //   description: "Personalized learning paths, AI-driven content recommendations, and automated progress tracking for optimal education outcomes.",
+  //   href: "/products/learning-management",
+  //   gradient: "from-green-500 to-teal-400",
+  // },
   {
     icon: Bot,
     title: "Custom AI Agents",
@@ -50,7 +50,7 @@ export default function ProductsOverview() {
           </p>
         </motion.div>
 
-        <div className="mt-16 grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="mt-16 grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {products.map((product, index) => (
             <motion.div
               key={product.href}

@@ -17,13 +17,13 @@ const solutions = [
     href: "/products/case-management",
     gradient: "from-purple-500 to-pink-400",
   },
-  {
-    icon: GraduationCap,
-    title: "AI Learning Management",
-    description: "Personalized learning paths, AI-driven content recommendations, and automated progress tracking for optimal education outcomes. Improve learning results by 45%.",
-    href: "/products/learning-management",
-    gradient: "from-green-500 to-teal-400",
-  },
+  // {
+  //   icon: GraduationCap,
+  //   title: "AI Learning Management",
+  //   description: "Personalized learning paths, AI-driven content recommendations, and automated progress tracking for optimal education outcomes. Improve learning results by 45%.",
+  //   href: "/products/learning-management",
+  //   gradient: "from-green-500 to-teal-400",
+  // },
   {
     icon: Bot,
     title: "Custom AI Agents",

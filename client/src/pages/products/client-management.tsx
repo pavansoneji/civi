@@ -149,9 +149,9 @@ export default function ClientManagement() {
             >
               <Card className="bg-white shadow-xl">
                 <CardContent className="p-8">
-                  <h3 className="text-2xl font-bold text-foreground mb-6">Use Case: Financial Services</h3>
+                  <h3 className="text-2xl font-bold text-foreground mb-6">Use Case: Customer Services</h3>
                   <p className="text-muted-foreground mb-6">
-                    A leading financial advisory firm implemented our AI Client Management solution and saw remarkable improvements in client satisfaction and retention.
+                    Implementing our AI Client Management solution can lead to significant improvements in client satisfaction and operational efficiency:
                   </p>
                   <div className="space-y-4">
                     <div className="flex justify-between items-center">

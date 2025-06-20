@@ -139,7 +139,7 @@ export default function Contact() {
                               <SelectContent>
                                 <SelectItem value="ai-client-management">AI Client Management</SelectItem>
                                 <SelectItem value="ai-case-management">AI Case Management</SelectItem>
-                                <SelectItem value="ai-learning-management">AI Learning Management</SelectItem>
+                                {/* <SelectItem value="ai-learning-management">AI Learning Management</SelectItem> */}
                                 <SelectItem value="custom-ai-agents">Custom AI Agents</SelectItem>
                                 <SelectItem value="multiple-solutions">Multiple Solutions</SelectItem>
                               </SelectContent>

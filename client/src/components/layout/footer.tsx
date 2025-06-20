@@ -32,11 +32,11 @@ export default function Footer() {
                   AI Case Management
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href="/products/learning-management" className="text-gray-300 hover:text-white transition-colors">
                   AI Learning Management
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link href="/products/ai-agents" className="text-gray-300 hover:text-white transition-colors">
                   Custom AI Agents
